@@ -1,0 +1,4 @@
+INSERT INTO tb_dado_coletado (sonda_nome, agencia_espacial, data_coleta, tipo_dado, valor_medido, unidade_medida) VALUES ('Curiosity', 'NASA', '2026-10-10', 'TEMPERATURA', -25.50, 'Celsius');
+INSERT INTO tb_dado_coletado (sonda_nome, agencia_espacial, data_coleta, tipo_dado, valor_medido, unidade_medida) VALUES ('Perseverance', 'NASA', '2026-10-11', 'PRESSAO', 610.00, 'Pascal');
+INSERT INTO tb_dado_coletado (sonda_nome, agencia_espacial, data_coleta, tipo_dado, valor_medido, unidade_medida) VALUES ('James Webb', 'ESA', '2026-10-12', 'RADIACAO', 3.45, 'mSv/h');
+INSERT INTO tb_dado_coletado (sonda_nome, agencia_espacial, data_coleta, tipo_dado, valor_medido, unidade_medida) VALUES ('Voyager 1', 'NASA', '2026-10-13', 'VELOCIDADE_VENTO', 45.20, 'Km/h');
